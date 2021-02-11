@@ -3,13 +3,13 @@ h1 {
     color:steelblue;
 }
 img {
+    height: 300px;
     width: 400px;
-    height: 250px;
 }
 
 #thirdDiv {
-    height: 500px;
-    width: 600px;
+    height: 600px;
+    width: 500px;
     background-color: darkgray;
     padding: 50px;
     border: 10px solid black;
